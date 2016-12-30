@@ -4,15 +4,15 @@ A simple web based tool used to compare two pdfs of same page length. Using [pdf
 
 ## Get it working
 
-# Prerequisites
+### Prerequisites
 you will need node.js
 follow [this](http://blog.npmjs.org/post/85484771375/how-to-install-npm) to get started
 
-# Once prerequisites are met
+### Once prerequisites are met
 ```
-git clone https://github.com/Elflyy/pdfDiff.git  
-cd into pdfDiff  
-npm update  
-node server.js 
-open a web browser and go to http://localhost 
+1. git clone https://github.com/Elflyy/pdfDiff.git  
+2. cd into pdfDiff  
+3. npm update  
+4. node server.js 
+5. open a web browser and go to http://localhost 
 ```
