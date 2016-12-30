@@ -19,7 +19,9 @@ follow [this](http://blog.npmjs.org/post/85484771375/how-to-install-npm) to get 
 
 ### Using the tool
 #### Drag N Drop two pdfs to there respective boxes(First PDF, Second PDF)
-![alt text](https://github.com/Elflyy/pdfDiff/blob/master/images/pdfDiff1.JPG "Drag N Drop two pdfs")  
+![Drag N Drop two pdfs](https://github.com/Elflyy/pdfDiff/blob/master/images/pdfDiff1.JPG "Drag N Drop two pdfs")  
   
 #### Click compare
-![alt text](https://github.com/Elflyy/pdfDiff/blob/master/images/pdfDiff2.JPG "Click compare")  
+![Click compare](https://github.com/Elflyy/pdfDiff/blob/master/images/pdfDiff2.JPG "Click compare")  
+
+#### Changes will be highlighted in gray 

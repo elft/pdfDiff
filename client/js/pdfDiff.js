@@ -133,6 +133,16 @@ pdfDiff.prototype.compare = function () {
         for (var i = 0; i < rgbaLength; i += 4) {
             total++;
             if (this.firstPDFpixels[j].data[i] != this.secondPDFpixels[j].data[i] || this.firstPDFpixels[j].data[i + 1] != this.secondPDFpixels[j].data[i + 1] || this.firstPDFpixels[j].data[i + 2] != this.secondPDFpixels[j].data[i + 2]) {
+                // uncomment show changes in red
+                // this.firstPDFpixels[j].data[i] = 255;
+                // this.firstPDFpixels[j].data[i + 1] = 0;
+                // this.firstPDFpixels[j].data[i + 2] = 0;
+
+                // this.secondPDFpixels[j].data[i] = 255;
+                // this.secondPDFpixels[j].data[i + 1] = 0;
+                // this.secondPDFpixels[j].data[i + 2] = 0;
+
+                //show changes in gray
                 this.firstPDFpixels[j].data[i + 3] = 230;
                 this.secondPDFpixels[j].data[i + 3] = 230;
                 pixelDiff++;
