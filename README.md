@@ -4,7 +4,9 @@ A simple web based tool used to compare two pdfs pixel data of same page length.
 
 ## Installation
 
-git clone pdfDiff
-cd into pdfDiff
-npm update
-node server.js
+```
+git clone pdfDiff  
+cd into pdfDiff  
+npm update  
+node server.js  
+```
