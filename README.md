@@ -18,7 +18,7 @@ follow [this](http://blog.npmjs.org/post/85484771375/how-to-install-npm) to get 
 ```
 
 ### Using the tool
-#### Drag N Drop two pdfs to there respective boxes(First PDF, Second PDF)
+#### Drag N Drop two pdfs to the respective boxes(First PDF, Second PDF)
 ![Drag N Drop two pdfs](https://github.com/Elflyy/pdfDiff/blob/master/images/pdfDiff1.JPG "Drag N Drop two pdfs")  
   
 #### Click compare
